@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyPromts</string>
+    <string name="shortcut_short_label">Activar Teclado</string>
+    <string name="shortcut_long_label">Seleccionar Teclado MyPromts</string>
+</resources>
